@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 # Gowebshell
 简单的类蚁剑，冰蝎，哥斯拉连接工具
 ## 暑假考核-Webshell管理工具
 =======
-# 暑假考核-Webshell管理工具
->>>>>>> d740d88 (GoWebshell)
-
 采用golang语言编写的支持多木马类型的webshell管理工具
 
 ## 实现的功能
